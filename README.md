@@ -11,7 +11,9 @@ Download: 0.0.0.3 (Windows Only): https://mega.nz/#!cschzD7B!o_zqV3iqtYi6nzE___g
 CHANGELOG:
 
 0.0.0.1
+
     Initial Release
 0.0.0.3
+
     - Added "No Cache" option. Use this if you get the parsing error.
     - If you leave the ECID filed blank, Assistant will confirm if you want a random SHSH blob.
