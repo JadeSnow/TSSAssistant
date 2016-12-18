@@ -1,0 +1,26 @@
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\bin\Debug\TSSAssistant.exe.config
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\bin\Debug\TSSAssistant.exe
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\bin\Debug\TSSAssistant.pdb
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\bin\Debug\TSSAssistant.xml
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\obj\Debug\TSSAssistant.vbprojResolveAssemblyReference.cache
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\obj\Debug\TSSAssistant.Form1.resources
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\obj\Debug\TSSAssistant.Resources.resources
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\obj\Debug\TSSAssistant.vbproj.GenerateResource.Cache
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\obj\Debug\TSSAssistant.exe
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\obj\Debug\TSSAssistant.xml
+C:\Users\harpe\AppData\Local\Temporary Projects\TSSAssistant\obj\Debug\TSSAssistant.pdb
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.Form1.resources
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.Resources.resources
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.vbproj.GenerateResource.Cache
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.exe
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.xml
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.pdb
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\bin\Debug\TSSAssistant.exe.config
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\bin\Debug\TSSAssistant.exe.manifest
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\bin\Debug\TSSAssistant.application
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\bin\Debug\TSSAssistant.exe
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\bin\Debug\TSSAssistant.pdb
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\bin\Debug\TSSAssistant.xml
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.vbprojResolveAssemblyReference.cache
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.exe.manifest
+C:\Users\harpe\Documents\Visual Studio 2015\Projects\TSSAssistant\TSSAssistant\obj\Debug\TSSAssistant.application
