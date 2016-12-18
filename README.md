@@ -16,4 +16,4 @@ CHANGELOG:
 0.0.0.3
 
     - Added "No Cache" option. Use this if you get the parsing error.
-    - If you leave the ECID filed blank, Assistant will confirm if you want a random SHSH blob.
+    - If you leave the ECID field blank, Assistant will confirm if you want a random SHSH blob.
